@@ -1,5 +1,5 @@
 # SM23-mech03
-#Base_of_Robot
+# Base_of_Robot
 Our team has meticulously crafted the robot's base using a unique approach, employing a perforated metal plate to achieve exceptional ventilation and performance.
 
 In our pursuit of optimizing the robot's functionality and efficiency, we recognized the critical role that proper ventilation plays in maintaining its internal components at optimal temperatures. To address this, we decided to integrate a perforated metal plate as the foundation of the robot. This design choice offers several key advantages:
@@ -19,7 +19,7 @@ By carefully considering the design of the robot's base, specifically incorporat
 ![3](https://github.com/Qusai-Masry/SM23-mech03/assets/108091352/98212b1c-d50b-4b02-82a9-d514c6a33d1f)
 
 
-#Suspentaion System
+# Suspentaion System
  I'm excited to share an intriguing aspect of our recent robot design project: the innovative suspension system that we've meticulously developed to ensure impeccable balance and prevent slipping. Taking inspiration from the sophisticated suspension systems used in cars, our team has created a remarkable solution utilizing a piston and zipper mechanism.
 
 In our pursuit of engineering a robot that excels in stability and maneuverability, we recognized the need for a suspension system that adapts to various terrains and movements. The automotive suspension system, known for its ability to maintain smooth rides even on uneven surfaces, served as an excellent model for our design. Here's how our robot suspension system works:
